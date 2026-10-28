@@ -1,0 +1,16 @@
+/build/
+/release/
+/tests/*.exe
+/tests/*.png
+/tests/*report*.txt
+/tests/smoke*.txt
+/tests/diagnostics.txt
+/tests/*-safety-*/
+/diagnostics.txt
+/.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+Thumbs.db
+Desktop.ini
